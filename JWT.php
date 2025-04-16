@@ -665,5 +665,3 @@ class JWT
         return [$pos, $data];
     }
 }
-
-?>
